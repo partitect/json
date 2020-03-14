@@ -1,1 +1,16 @@
-
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "E-Belediye",
+      "image": "",
+      "color": ""
+    },
+    {
+      "id": 2,
+      "title": "Nöbetçi Eczaneler",
+      "image": "",
+      "color": ""
+    }
+  ]
+}
